@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/rockpaperscissor/static/js/main.c57d1b26.chunk.js",
+    "main.js.map": "/rockpaperscissor/static/js/main.c57d1b26.chunk.js.map",
+    "runtime-main.js": "/rockpaperscissor/static/js/runtime-main.d8dd5c84.js",
+    "runtime-main.js.map": "/rockpaperscissor/static/js/runtime-main.d8dd5c84.js.map",
+    "static/css/2.4be38407.chunk.css": "/rockpaperscissor/static/css/2.4be38407.chunk.css",
+    "static/js/2.e92deb56.chunk.js": "/rockpaperscissor/static/js/2.e92deb56.chunk.js",
+    "static/js/2.e92deb56.chunk.js.map": "/rockpaperscissor/static/js/2.e92deb56.chunk.js.map",
+    "index.html": "/rockpaperscissor/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/rockpaperscissor/static/css/2.4be38407.chunk.css.map",
+    "static/js/2.e92deb56.chunk.js.LICENSE.txt": "/rockpaperscissor/static/js/2.e92deb56.chunk.js.LICENSE.txt",
+    "static/media/logo.82530546.jpg": "/rockpaperscissor/static/media/logo.82530546.jpg",
+    "static/media/paper.a2d2a464.jpg": "/rockpaperscissor/static/media/paper.a2d2a464.jpg",
+    "static/media/rock.87ff2cc0.jpg": "/rockpaperscissor/static/media/rock.87ff2cc0.jpg",
+    "static/media/scissor.685dcea0.jpg": "/rockpaperscissor/static/media/scissor.685dcea0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8dd5c84.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.e92deb56.chunk.js",
+    "static/js/main.c57d1b26.chunk.js"
+  ]
+}
